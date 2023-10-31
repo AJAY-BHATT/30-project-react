@@ -1,0 +1,9 @@
+const darkModeStyles = {
+    backgroundColor: 'black',
+    color: 'white',
+  };
+  
+  const lightModeStyles = {
+    backgroundColor: 'white',
+    color: 'black',
+  };
